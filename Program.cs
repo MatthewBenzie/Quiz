@@ -50,10 +50,6 @@ namespace Quiz
 
             }
             Console.WriteLine("You got " + cordrect + " out of " + questionsAsk + " correct!");
-            
-
-            
-
         }
     }
 }
