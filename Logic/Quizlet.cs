@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using Quiz.Model;
+using Quiz.Data;
 
 namespace Quiz
 {

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace Quiz.Model
+namespace Quiz.Data
 {
     public class QuizContext : DbContext
     {

@@ -1,4 +1,4 @@
-using Quiz.Model;
+using Quiz.Data;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System;

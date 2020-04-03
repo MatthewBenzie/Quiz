@@ -1,5 +1,5 @@
 ﻿using System;
-using Quiz.Model;
+using Quiz.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace Quiz
