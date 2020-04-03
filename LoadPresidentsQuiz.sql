@@ -227,7 +227,7 @@ INSERT INTO Answers (Text, IsCorrect, QuestionId) VALUES ('Andrew Johnson', 0, 3
 
 INSERT INTO Questions (Text) VALUES ('Who was the 38th president of the United States?');
 INSERT INTO Answers (Text, IsCorrect, QuestionId) VALUES ('Barack Obama', 0, 38);
-INSERT INTO Answers (Text, IsCorrect, QuestionId) VALUES ('James Carter', 0, 338);
+INSERT INTO Answers (Text, IsCorrect, QuestionId) VALUES ('James Carter', 0, 38);
 INSERT INTO Answers (Text, IsCorrect, QuestionId) VALUES ('George H. W. Bush', 0, 38);
 INSERT INTO Answers (Text, IsCorrect, QuestionId) VALUES ('Gerald R. Ford', 1, 38);
 
